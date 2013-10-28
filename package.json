@@ -1,0 +1,23 @@
+{
+  "name": "cruise-node",
+  "version": "0.0.1",
+  "description": "A cruise node",
+  "keywords": [],
+  "author": "Calvin French-Owen <calvin@calv.info>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinfo/cruise-node.git"
+  },
+  "dependencies": {
+    "axon-rpc": "0.0.2",
+    "axon": "~1.0.0",
+    "debug": "~0.7.2",
+    "cruise-log": "0.0.1",
+    "uid": "0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "lib/index"
+}
