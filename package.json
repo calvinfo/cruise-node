@@ -13,7 +13,8 @@
     "axon": "~1.0.0",
     "debug": "~0.7.2",
     "cruise-log": "0.0.1",
-    "uid": "0.0.2"
+    "uid": "0.0.2",
+    "hat": "0.0.3"
   },
   "devDependencies": {
     "mocha": "*",
